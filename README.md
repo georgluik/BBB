@@ -7,7 +7,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - lorem
 - ipsum
 - dolor
-* lorem
-* ipsum
-* dolor
+1. first list item
+   - first nested item
+     - second nested item
 
